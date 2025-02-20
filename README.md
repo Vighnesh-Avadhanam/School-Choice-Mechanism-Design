@@ -1,4 +1,4 @@
 # School-Choice-Mechanism-Design
 
-[Download PDF](Vighnesh_Avadhanam_Auctions_Paper.pdf)
+[Download PDF](School_Choice_Mechanism_Design.pdf)
 
